@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: DynamicReverseProxy
+  IMAGE_NAME: dynamic-reverse-proxy
 
 jobs:
   # Run tests.
